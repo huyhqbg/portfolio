@@ -10,6 +10,7 @@ const config: Config = {
     extend: {
       animation: {
         text: "var(--text)",
+        'text-opacity': "var(--text-opacity)",
       },
       gridTemplateRows: {
         item: "290px",
@@ -21,6 +22,11 @@ const config: Config = {
       backgroundPosition: {
         "center-asymmetrical": "72% 60%",
       },
+      colors: {
+        profile: '#ffbe76',
+        employment: '#7ed6df',
+        education: '#ff7979',
+      }
     },
   },
   plugins: [],

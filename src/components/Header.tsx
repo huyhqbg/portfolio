@@ -2,12 +2,12 @@ export default function Header() {
   return (
     <header className="w-full max-w-[900px]">
       <h1 className="pb-[30px] text-center">
-        <span className="block text-2xl font-semibold opacity-30 mb-2 animate-text">
+        <div className="text-2xl font-semibold opacity-30 mb-2 animate-text-opacity">
           Huy Hoang
-        </span>
-        <span className="text-[32px] font-medium">
+        </div>
+        <div className="text-[32px] font-medium animate-text">
           I’m a website developer from Pionero.
-        </span>
+        </div>
       </h1>
     </header>
   );

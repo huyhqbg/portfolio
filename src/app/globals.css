@@ -6,6 +6,7 @@
 
 :root {
   --be-vietnam-pro: "Be Vietnam Pro", sans-serif;
+  --text-opacity: fadeInOpacity 0.1s linear, flyFromBottom 0.3s linear;
   --text: fadeIn 0.1s linear, flyFromBottom 0.3s linear;
 }
 
@@ -29,12 +30,21 @@ body {
   }
 }
 
-@keyframes fadeIn {
+@keyframes fadeInOpacity {
   from {
     opacity: 0;
   }
   to {
     opacity: 0.3;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
   }
 }
 
