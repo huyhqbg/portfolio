@@ -1,14 +1,9 @@
-# portfolio
-[![npm Version][NPM VERSION BADGE]][NPM PAGE]
-[![Node.js][NODE VERSION BADGE]][NODE PAGE]
-[![GitHub License][LICENSE BADGE]][LICENSE PAGE]
-[![CI Status][CI BADGE]][CI PAGE]
+## portfolio
 
-## About
-- This is a cloned Portfolio UI.
-- The link of the portfolio UI, see [here](https://portfolio.framer.website/)
+### About
+This is a cloned Portfolio UI. [Here](https://portfolio.framer.website/) is the link of the website.
 
-## Run this project
+### Run this project
 1. Clone the project
 ```bash
 git clone https://github.com/trongcho34/portfolio.git
