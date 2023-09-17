@@ -11,18 +11,18 @@
 ## Run this project
 1. Clone the project
 ```bash
-$ git clone https://github.com/trongcho34/portfolio.git
-$ cd portfolio
+git clone https://github.com/trongcho34/portfolio.git
+cd portfolio
 ```
 
 2. Start the project
 - using `npm`
 ```bash
-$ npm install
-$ npm run dev
+npm install
+npm run dev
 ```
 - or using `yarn`
 ```bash
-$ yarn
-$ yarn dev
+yarn
+yarn dev
 ```
