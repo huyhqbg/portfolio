@@ -11,7 +11,7 @@ git clone https://github.com/trongcho34/portfolio.git
 cd portfolio
 ```
 
-2. Start the project
+2. Install packages and start the project
 - using `npm`
 ```bash
 npm install
